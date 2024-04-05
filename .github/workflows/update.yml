@@ -1,0 +1,11 @@
+name: Update
+on:
+    schedule:
+        - cron: '0 0 * * *'
+
+jobs:
+    build:
+        name: updateWorld
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v3
