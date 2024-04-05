@@ -8,4 +8,4 @@ jobs:
         name: updateWorld
         runs-on: ubuntu-latest
         steps:
-        - uses: actions/checkout@v3
+        - run: ./back.sh
