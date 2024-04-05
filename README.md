@@ -23,7 +23,29 @@ dumping site for BSIT 2-Y2-1 terraria server
 
 [^1]: zerotier network for BSIT 2-Y2-1 terraria server: 363c67c55af05f67
 
-
+# Modlist
+- Calamity Mod
+- Calamity Mod Music
+- Thorium Mod
+- AlchemistNPC Lite
+- Antisocial
+- Boss Checklist
+- Calamity Ranger Expansion
+- Calamity Flamethrowers
+- Calamity Overhaul
+- Calamity Rarities
+- Calamity's Vanities
+- 绘幻轩~LogSpiral's Library
+- CoolerItemVisualEffect(更酷的物品视觉效果)
+- Quality of Terraria 更好的体验
+- Subworld Library
+- Calamity Mod Infernum Mode
+- Calamity: Wrath of the Gods
+- Ore Excavator (1.4.3/1.4.4 Veinminer)
+- Recipe Browser
+- Shared World Map
+- Thorium + Calamity Convergence Mod
+- Wing Slot Extra
 
 
 
