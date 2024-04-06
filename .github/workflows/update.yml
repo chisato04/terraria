@@ -1,11 +1,12 @@
-name: Update
-on:
-    schedule:
-        - cron: '*/6 * * * *'
 
-jobs:
-    build:
-        name: updateWorld
-        runs-on: ubuntu-latest
-        steps:
-        - run: ./back.sh
+#name: Update
+#on:
+#    schedule:
+#        - cron: '*/6 * * * *'
+#
+#jobs:
+#    build:
+#        name: updateWorld
+#       runs-on: ubuntu-latest
+#        steps:
+#       - run: ./back.sh
